@@ -1,0 +1,6 @@
+torch
+transformers
+flask
+fastapi
+nltk
+rouge-score
